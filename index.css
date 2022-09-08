@@ -1,5 +1,5 @@
 body {
-    background-image:url("https://img.freepik.com/free-vector/realistic-style-soap-bubbles-background_52683-44371.jpg?w=900&t=st=1662594850~exp=1662595450~hmac=4fe77ccf7ca97eaa295676dd250a93d4e60b7eb90828ef4954958929a119b82b");
+    background-image:url("https://img.freepik.com/free-vector/realistic-style-soap-bubbles-background_52683-44371.jpg?w=900&t=st=1662633385~exp=1662633985~hmac=77d27ef6a597cd4168d5bc361fa1d8bf78e284fa6f6ca6d9e52a4303f1879506Assets/4231164.jpg");
     background-size: cover;
     font-family: 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: center;
@@ -44,8 +44,9 @@ button {
     margin:50px auto;
 }
 
-a a:link a:visited {
-    font-size: x-small;
+footer, a, a:link, a:visited {
+    margin:50% 0 0 0;
+    font-size: 0.5em;
     color:black;
 }
 
